@@ -1,4 +1,4 @@
-**# 🟡 Backrooms Escape
+# 🟡 Backrooms Escape
 
 > **"Tente escapar desse monstro peludo."**
 
@@ -81,4 +81,3 @@ Projeto criado como experimento de desenvolvimento de jogos no navegador, explor
 
 Se você ouvir algo…
 já pode ser tarde demais.
-**
