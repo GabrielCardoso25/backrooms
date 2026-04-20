@@ -6,7 +6,6 @@ Você não sabe como chegou aqui.
 Corredores infinitos, paredes amareladas, um silêncio estranho…
 e **algo está te observando**.
 
-https://gabrielcardoso25.github.io/backrooms/
 
 ---
 
@@ -46,7 +45,7 @@ ele também está procurando você.
 1. Acesse o jogo:
 
    ```
-   https://gabrielcardoso.github.io/backrooms-game/
+   https://gabrielcardoso25.github.io/backrooms/
    ```
 
 2. Clique na tela para iniciar
